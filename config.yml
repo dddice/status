@@ -38,9 +38,13 @@ params:
   down: "#e60000"
   systems:
     - category: Uncategorized
-      name: dddice
+      name: Application
       description: ""
-    - name: Status Site
+    - name: API
+      category: Uncategorized
+    - name: Forums
+      category: Uncategorized
+    - name: Status
       category: Uncategorized
       description: This site is hosted on Netlify and outside of our infrastructure
   dateFormat: January 2, 2006 at 3:04 PM UTC
