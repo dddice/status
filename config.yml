@@ -37,10 +37,13 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - category: Uncategorized
-      name: Application
-      description: ""
+    - name: Application
+      category: Uncategorized
     - name: API
+      category: Uncategorized
+    - name: Cache
+      category: Uncategorized
+    - name: Database
       category: Uncategorized
     - name: Documentation
       category: Uncategorized
