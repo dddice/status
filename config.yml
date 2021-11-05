@@ -40,6 +40,9 @@ params:
     - category: N. America
       name: dddice
       description: https://dddice.com
+    - name: Status Site
+      category: Uncategorized
+      description: This site is hosted on Netlify and outside of our infrastructure
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -56,7 +59,8 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: N. America
+    - name: Uncategorized
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
