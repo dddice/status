@@ -2,7 +2,7 @@
 section: issue
 title: API Experiencing Latency
 date: 2021-11-05T14:56:22.886Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2021-11-05T15:15:22.903Z
