@@ -42,6 +42,8 @@ params:
       description: ""
     - name: API
       category: Uncategorized
+    - name: Documentation
+      category: Uncategorized
     - name: Forums
       category: Uncategorized
     - name: Status
