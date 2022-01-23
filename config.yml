@@ -56,7 +56,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/nullfish.jpg
+  logo: /img/favicon-256.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
