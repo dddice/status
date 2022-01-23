@@ -56,7 +56,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/favicon-256.png
+  logo: /img/logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
