@@ -34,7 +34,7 @@ params:
   skipSeconds: false
   useRelativeTime: true
   disableDarkMode: false
-  shortDateFormat: 15:04 UTC — Jan 2
+  shortDateFormat: 15:04 EST — Jan 2
   down: "#e60000"
   systems:
     - name: Application
@@ -47,12 +47,12 @@ params:
       category: Uncategorized
     - name: Documentation
       category: Uncategorized
-    - name: Forums
-      category: Uncategorized
     - name: Status
       category: Uncategorized
       description: This site is hosted on Netlify and outside of our infrastructure
-  dateFormat: January 2, 2006 at 3:04 PM UTC
+    - name: Blog
+      category: Uncategorized
+  dateFormat: January 2, 2006 at 3:04 PM EST
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
