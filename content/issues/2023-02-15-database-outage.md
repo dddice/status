@@ -28,7 +28,7 @@ To immediately solve the problem, we upgraded our database in PlanetScale which 
 
 ## Solution
 
-This incident was raised with PlanetScale's support team who immediately began ivestigation. The investigation took about 1-hour 15-minutes before resolution.
+This incident was raised with PlanetScale's support team who immediately began investigation. The investigation took about 1-hour 15-minutes before resolution.
 
 ## Timeline
 
