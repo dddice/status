@@ -55,6 +55,8 @@ params:
     - name: Worker
       category: Uncategorized
       description: Processes rolls, image processing, and other async jobs
+    - name: WebSockets
+      category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
