@@ -2,10 +2,10 @@
 section: issue
 title: Performance Degregation
 date: 2023-03-08T20:37:32.048Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-resolvedWhen: 2023-03-08T20:37:32.062Z
+resolvedWhen: 2023-03-08T20:54:58.757Z
 affected:
   - Application
   - API
