@@ -2,10 +2,10 @@
 section: issue
 title: Application Outage
 date: 2023-04-04T12:58:15.456Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-resolvedWhen: 2023-04-04T12:58:15.469Z
+resolvedWhen: 2023-04-04T14:20:03.704Z
 affected:
   - Application
   - API
