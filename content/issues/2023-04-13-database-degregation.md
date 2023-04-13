@@ -2,10 +2,10 @@
 section: issue
 title: "Database Degregation "
 date: 2023-04-13T12:59:18.770Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-resolvedWhen: 2023-04-13T12:59:18.783Z
+resolvedWhen: 2023-04-13T13:08:49.589Z
 affected:
   - Database
 severity: disrupted
