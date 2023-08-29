@@ -2,7 +2,7 @@
 section: issue
 title: Unscheduled downtime
 date: 2023-08-29T20:35:53.776Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2023-08-29T20:35:53.788Z
